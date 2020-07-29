@@ -10,6 +10,7 @@ namespace HelloSourceControlCPW212
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World!");
         }
     }
 }
